@@ -5,5 +5,6 @@ public class hello {
 		System.out.println("Asda");
 		System.out.println("sad");
 		System.out.println("asdasda");
+		System.out.println("sad");
 	}
 }
